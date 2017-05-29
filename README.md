@@ -1,2 +1,2 @@
 # Module-2.1
-Please, see repository Kaborda_ATM in profile for commits
+Please, see repository https://github.com/YuliyaKaborda/Kaborda_ATM for commits
